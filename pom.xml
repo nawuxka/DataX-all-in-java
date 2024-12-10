@@ -42,8 +42,8 @@
     </properties>
 
     <modules>
-        <module>common</module>
-        <module>core</module>
+        <module>datax-common</module>
+        <module>datax-core</module>
         <module>transformer</module>
 
         <!-- reader -->
